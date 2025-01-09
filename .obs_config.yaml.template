@@ -1,0 +1,4 @@
+vaults:
+  P: /Users/yourusername/Documents/obsidian/personal
+  W: /Users/yourusername/Documents/obsidian/work
+openai_api_key: "sk-your-openai-key"
