@@ -15,6 +15,7 @@ def load_config() -> dict:
         P: /path/to/personal/vault
         W: /path/to/work/vault
       openai_api_key: "sk-xxxxx"
+      backup_dir: /path/to/backups
     """
     if not CONFIG_PATH.exists():
         print(f"Error: Config file not found at {CONFIG_PATH}")
